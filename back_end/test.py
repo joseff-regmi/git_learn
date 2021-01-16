@@ -46,3 +46,10 @@ for i in fruit_list:
 
 print(fruit_list)
 
+girls_name_with_age = {
+    "kabita":23,
+    "babita":22,
+    "sunita":25
+}
+
+print(girls_name_with_age)
