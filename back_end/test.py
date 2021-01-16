@@ -56,3 +56,6 @@ print(girls_name_with_age)
 
 
 print("hello world")
+
+print("python is amazing")
+
