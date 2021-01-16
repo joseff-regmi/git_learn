@@ -38,3 +38,9 @@ word()
 
 print("hello world")
 
+fruit_list = ["apple", "banana", "orange", "kiwi"]
+
+for i in fruit_list:
+    print("this fruit has a good test")
+    
+
