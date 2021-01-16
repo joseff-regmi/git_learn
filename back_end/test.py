@@ -44,3 +44,5 @@ for i in fruit_list:
     print("this fruit has a good test")
     
 
+print(fruit_list)
+
