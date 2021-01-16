@@ -1,1 +1,1 @@
-concel.log("hello world")
+concel.log("Hello World! Howdy!")
