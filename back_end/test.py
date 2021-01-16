@@ -53,10 +53,3 @@ girls_name_with_age = {
 }
 
 print(girls_name_with_age)
-
-<<<<<<< HEAD
-print("python is amazing")
-=======
-
-print("hello world")
->>>>>>> develop
