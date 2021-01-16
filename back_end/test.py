@@ -53,3 +53,5 @@ girls_name_with_age = {
 }
 
 print(girls_name_with_age)
+
+print("python is amazing")
